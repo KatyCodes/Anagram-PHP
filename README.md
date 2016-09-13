@@ -10,6 +10,13 @@ A simple app that takes user input and compares the words to determine if any an
 
 ## Specs
 
+* Take user input of two words and return true or false if they are an anagram
+    * Input: beard, bread
+    * Output: True
+
+* Take user input of multiple words and output which ones are anagrams
+    * Input: beard, bread, hello, mat
+    * Output: beard, bread
 
 ## Setup/Installation
 
@@ -24,4 +31,4 @@ _HTML, Bootstrap, CSS, PHP/Silex/Twig_
 
 ### License
 *MIT*
-Copyright (c) 2016 **Aimen K and Katy H**
+Copyright (c) 2016 **Aimen Khakwani and Katy Henning**
