@@ -22,8 +22,8 @@
                 {
                     array_push($wordlist, $word);
                 }
-                return implode(" ", $wordlist);
              }
+             return implode(" ", $wordlist);
         }
     }
 
